@@ -1,6 +1,8 @@
 function App() {
   return (
-    <h1>Hello World</h1>
+    <div>
+      Hello World, my name is Divya
+    </div>
   );
 }
 
