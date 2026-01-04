@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      Hello World, my name is Divya
+      Hello World, my name is Divya Jaisinghani
     </div>
   );
 }
